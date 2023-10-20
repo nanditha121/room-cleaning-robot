@@ -5,7 +5,9 @@ This is Version 2.0 of the Floor Cleaning Robot, with some improvements over the
 In short here are the changes I made compared to the previous version:
 
 .Added Autonomous Mode
+
 .Fixed mop instead of rotating ones
+
 .Removed roller and servo motor
 .Added LCD Display
 .Used Lithium-ion Batteries instead of lead acid
